@@ -1,2 +1,6 @@
 # AED-vsc
-Cristian Brian Churquina -- K1053
+
+Alumno: Cristian Brian Churquina
+Matricula N°: 215.004-9
+
+Curso: K1053 - miercoles T.N.
